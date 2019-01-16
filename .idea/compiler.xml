@@ -8,6 +8,8 @@
       <module name="com.crossover.rest-client.test" target="1.8" />
       <module name="com.restclient.rest-client.main" target="1.8" />
       <module name="com.restclient.rest-client.test" target="1.8" />
+      <module name="com.restclient.RestClientSpringDemo.main" target="1.8" />
+      <module name="com.restclient.RestClientSpringDemo.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
